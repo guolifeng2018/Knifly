@@ -1,0 +1,77 @@
+2018-07-23T02:13:31.491Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-23T02:13:31.495Z - normal: checking language setting...
+2018-07-23T02:13:31.495Z - normal: Language: zh
+2018-07-23T02:13:32.403Z - success: protocol editor-framework registered
+2018-07-23T02:13:32.404Z - success: protocol app registered
+2018-07-23T02:13:32.404Z - success: protocol theme registered
+2018-07-23T02:13:32.404Z - success: protocol packages registered
+2018-07-23T02:13:32.405Z - success: protocol unpack registerred
+2018-07-23T02:13:32.405Z - success: protocol disable-commonjs registerred
+2018-07-23T02:13:32.593Z - normal: connected!
+2018-07-23T02:13:32.595Z - normal: Check project /Users/guolifeng/Documents/game/EmptyProject
+2018-07-23T02:13:32.596Z - normal: Initializing Cocos2d
+2018-07-23T02:13:32.840Z - normal: Initializing Asset Database
+2018-07-23T02:13:32.877Z - success: protocol uuid registerred
+2018-07-23T02:13:32.877Z - success: protocol db registerred
+2018-07-23T02:13:32.877Z - success: protocol thumbnail registerred
+2018-07-23T02:13:32.877Z - normal: Loading editor/builtin packages
+2018-07-23T02:13:32.908Z - success: anysdk loaded
+2018-07-23T02:13:33.037Z - success: assets loaded
+2018-07-23T02:13:33.042Z - success: builder loaded
+2018-07-23T02:13:33.044Z - success: cocos-analytics loaded
+2018-07-23T02:13:33.049Z - success: console loaded
+2018-07-23T02:13:33.083Z - success: fb-instant-games loaded
+2018-07-23T02:13:33.089Z - success: hierarchy loaded
+2018-07-23T02:13:33.094Z - success: inspector loaded
+2018-07-23T02:13:33.096Z - success: keystore loaded
+2018-07-23T02:13:33.101Z - success: node-library loaded
+2018-07-23T02:13:33.103Z - success: package-asset loaded
+2018-07-23T02:13:33.105Z - success: preferences loaded
+2018-07-23T02:13:33.108Z - success: project-exporter loaded
+2018-07-23T02:13:33.127Z - success: project-importer loaded
+2018-07-23T02:13:33.130Z - success: project-settings loaded
+2018-07-23T02:13:33.135Z - success: ui-kit loaded
+2018-07-23T02:13:33.140Z - success: ui-grid loaded
+2018-07-23T02:13:33.145Z - success: scene loaded
+2018-07-23T02:13:33.147Z - success: sprite-editor loaded
+2018-07-23T02:13:33.152Z - success: store loaded
+2018-07-23T02:13:33.159Z - success: timeline loaded
+2018-07-23T02:13:33.159Z - normal: Loading builtin packages
+2018-07-23T02:13:33.164Z - success: asset-db-debugger loaded
+2018-07-23T02:13:33.166Z - success: color-picker loaded
+2018-07-23T02:13:33.170Z - success: package-manager loaded
+2018-07-23T02:13:33.172Z - success: qqplay-adapter loaded
+2018-07-23T02:13:33.180Z - success: sdkbox loaded
+2018-07-23T02:13:33.184Z - success: tester loaded
+2018-07-23T02:13:33.189Z - success: ui-kit-preview-extra loaded
+2018-07-23T02:13:33.194Z - success: ui-kit-preview loaded
+2018-07-23T02:13:33.198Z - success: ui-tree loaded
+2018-07-23T02:13:33.200Z - success: weapp-adapter loaded
+2018-07-23T02:13:34.358Z - normal: Initializing project /Users/guolifeng/Documents/game/EmptyProject
+2018-07-23T02:13:34.360Z - normal: Loading packages
+2018-07-23T02:13:34.366Z - normal: Watching packages
+2018-07-23T02:13:34.484Z - normal: Run Application
+2018-07-23T02:13:34.999Z - success: preview server running at http://localhost:7456
+2018-07-23T02:13:39.960Z - normal: 1.9.3
+2018-07-23T02:53:46.163Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:41201
+2018-07-23T02:55:37.889Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:42685
+2018-07-23T02:55:37.892Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:42687
+2018-07-23T02:55:37.893Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:42688
+2018-07-23T03:08:57.018Z - warn: The Prefab used is missing. Detailed information:
+Missing uuid: "bf6d3a84-976c-46e9-8758-f821aec6dcce"
+
+2018-07-23T03:08:57.226Z - warn: The Prefab used is missing. Detailed information:
+Missing uuid: "bf6d3a84-976c-46e9-8758-f821aec6dcce"
+
+2018-07-23T03:09:01.121Z - warn: The Prefab used is missing. Detailed information:
+Missing uuid: "bf6d3a84-976c-46e9-8758-f821aec6dcce"
+
+2018-07-23T03:09:01.354Z - warn: The Prefab used is missing. Detailed information:
+Missing uuid: "bf6d3a84-976c-46e9-8758-f821aec6dcce"
+
+2018-07-23T03:31:34.995Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "bf6d3a84-976c-46e9-8758-f821aec6dcce"
+
+2018-07-23T03:31:39.974Z - success: API data generated and copied to /Users/guolifeng/Documents/game/EmptyProject/creator.d.ts
+2018-07-23T03:31:46.757Z - success: VS Code extension installed to /Users/guolifeng/.vscode/extensions
+2018-07-23T03:31:50.489Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
